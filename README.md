@@ -1070,8 +1070,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Built with ❤️ as part of the DSA Projects Roadmap**
 
-*Project #15 of 24 - Phase 4: FAANG Interview Preparation*
-
 [⬆ Back to Top](#-valkeyrie-distributed-cache-system)
 
 </div>
